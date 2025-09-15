@@ -2,7 +2,6 @@
 
 I'm **Arlindo Antonio**, a Software Engineering student at **UniEvangélica - Universidade Evangélica de Goiás**, passionate about creating innovative technological solutions.
 
-![Profile Photo](https://avatars.githubusercontent.com/Arliindoo?v=4&s=200)
 
 ---
 
