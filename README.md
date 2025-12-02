@@ -23,16 +23,6 @@ My focus is on **high-reliability systems**: I don't just write code; I engineer
 
 ---
 
-### ⚡ Recent Engineering Highlights
-
-> Real-world problems I've solved recently:
-
-* **Meta Compliance:** Successfully led the App Review process to secure `business_messaging` and `business_management` permissions for a TSP model.
-* **Cost Optimization:** Re-engineered message template strategies (Utility vs. Marketing), reducing operational costs by leveraging 24h service windows.
-* **Infrastructure:** Implemented database sanitization logic to reduce message delivery failure rates.
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Daily Drivers (Production):**
@@ -57,9 +47,9 @@ My focus is on **high-reliability systems**: I don't just write code; I engineer
 ### 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arlindoantonio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlindoantonio&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/Arliindoo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arliindo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arliindoo&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
