@@ -2,62 +2,73 @@
 
 <div align="center">
 
-**Software Engineering Student** | Passionate about creating innovative technological solutions
-
-🔥 **Current Project:** Working on **Ignis Guard** - a comprehensive solution for the Fire Department
-
-</div>
-
----
-
-## Most Used Languages
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-50.0%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-40.0%25-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-40.0%25-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-35.0%25-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-35.0%25-777BB4?style=flat&logo=php&logoColor=white)
+### Software Engineering Student | Meta Business Platform Specialist 🚀
+*Building scalable GovTech solutions and optimizing critical messaging infrastructures.*
 
 </div>
 
 ---
 
-## 💻 Main Stack
+### 👨‍💻 About Me
 
+I operate at the intersection of **Software Engineering** and **Government Technology**. Currently, I work as a Back-end Developer at **Orb Govtech**, acting as a Tech Provider (TSP) for public entities.
+
+My focus is on **high-reliability systems**: I don't just write code; I engineer compliance, optimize cloud costs, and ensure message deliverability for citizens.
+
+- 🔭 **I’m currently working on:**
+    - **Suporte ORB:** A SaaS platform connecting City Halls to citizens via WhatsApp API (TSP Model).
+    - **Ignis Guard:** A comprehensive management solution for Fire Departments.
+- 🌱 **I’m currently deepening my knowledge in:** System Architecture, PHP (Laravel), and Meta's Graph API.
+- 💬 **Ask me about:** WhatsApp Cloud API, App Review Compliance, and Cost Engineering.
+
+---
+
+### ⚡ Recent Engineering Highlights
+
+> Real-world problems I've solved recently:
+
+* **Meta Compliance:** Successfully led the App Review process to secure `business_messaging` and `business_management` permissions for a TSP model.
+* **Cost Optimization:** Re-engineered message template strategies (Utility vs. Marketing), reducing operational costs by leveraging 24h service windows.
+* **Infrastructure:** Implemented database sanitization logic to reduce message delivery failure rates.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Daily Drivers (Production):**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta%20for%20Developers-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<br>
-
+**Languages & Tools I also speak:**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
-## 📫 Connect with Me
+### 📈 GitHub Stats
 
 <div align="center">
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arlindoantonio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arlindoantonio&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlind-antonio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arlindo.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlindoantonio.corp@gmail.com)
@@ -67,5 +78,5 @@
 ---
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i>"Software Engineering is about managing complexity, not just writing code."</i>
 </div>
