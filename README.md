@@ -17,7 +17,7 @@ I operate at the intersection of **Software Engineering** and **Government Techn
 My focus is on **high-reliability systems**: I don't just write code; I engineer compliance, optimize cloud costs, and ensure message deliverability for citizens.
 
 - 🔭 **I'm currently working on:**
-  - **Suporte ORB:** A SaaS platform connecting City Halls to citizens via WhatsApp API (TSP Model).
+  - **Suporte ORB:** A SaaS platform connecting City Halls to citizens via WhatsApp API.
   - **Ignis Guard:** A comprehensive management solution for Fire Departments.
 - 🌱 **I'm currently deepening my knowledge in:** System Architecture, PHP (Laravel), and Meta's Graph API.
 - 💬 **Ask me about:** WhatsApp Cloud API, App Review Compliance, and Cost Engineering.
