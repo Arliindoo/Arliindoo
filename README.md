@@ -47,15 +47,16 @@ My focus is on **high-reliability systems**: I don't just write code; I engineer
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arliindoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arliindoo&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arliindoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arliindoo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arliindoo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arliindoo&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
