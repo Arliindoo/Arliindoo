@@ -17,7 +17,7 @@ I operate at the intersection of **Software Engineering** and **Government Techn
 My focus is on **high-reliability systems**: I don't just write code; I engineer compliance, optimize cloud costs, and ensure message deliverability for citizens.
 
 - 🔭 **I'm currently working on:**
-  - **Suporte ORB:** A SaaS platform connecting City Halls to citizens via WhatsApp API.
+  - **Suporte ORB:** A SaaS platform connecting City Halls to citizens via WhatsApp API (TSP Model).
   - **Ignis Guard:** A comprehensive management solution for Fire Departments.
 - 🌱 **I'm currently deepening my knowledge in:** System Architecture, PHP (Laravel), and Meta's Graph API.
 - 💬 **Ask me about:** WhatsApp Cloud API, App Review Compliance, and Cost Engineering.
@@ -47,15 +47,17 @@ My focus is on **high-reliability systems**: I don't just write code; I engineer
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arliindoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arliindoo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arliindoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arliindoo&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arliindoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Arliindoo&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arliindoo&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
