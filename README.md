@@ -32,32 +32,30 @@ My focus is on **high-reliability systems**: I don't just write code; I engineer
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Meta%20for%20Developers-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 **Languages & Tools I also speak:**
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Arliindoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+**Explore my repositories below to see my work in:**
+- 🏛️ **GovTech Solutions** - Building scalable platforms for public institutions
+- 🤖 **API Integration** - Meta Business Platform & WhatsApp Cloud API
+- ⚡ **Backend Development** - PHP/Laravel high-performance systems
+- 📱 **Messaging Infrastructure** - Enterprise-grade communication solutions
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arliindoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Arliindoo&theme=tokyonight&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arliindoo&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Arliindoo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
