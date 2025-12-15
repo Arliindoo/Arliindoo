@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Software Engineering Student | Meta Business Platform Specialist 🚀
+### Back-End Developer | WhatsApp Cloud API / Meta Business Platform 🚀
 
-*Building scalable GovTech solutions and optimizing critical messaging infrastructures.*
+*Building reliable GovTech messaging systems for public institutions.*
 
 </div>
 
@@ -12,15 +12,24 @@
 
 ## 👨‍💻 About Me
 
-I operate at the intersection of **Software Engineering** and **Government Technology**. Currently, I work as a Back-end Developer at **Orb Govtech**, acting as a Tech Provider (TSP) for public entities.
+I work at the intersection of **Back-End Development** and **GovTech**.  
+Currently I’m a Back-End Developer at **Orb Govtech**, helping City Halls connect with citizens through official WhatsApp channels.
 
-My focus is on **high-reliability systems**: I don't just write code; I engineer compliance, optimize cloud costs, and ensure message deliverability for citizens.
+My main focus today is:
+
+- **WhatsApp Business Platform (Cloud API)**  
+- **Meta Tech Provider (TSP) flows**  
+- **High-reliability messaging and integrations**
 
 - 🔭 **I'm currently working on:**
-  - **Suporte ORB:** A SaaS platform connecting City Halls to citizens via WhatsApp API (TSP Model).
-  - **Ignis Guard:** A comprehensive management solution for Fire Departments.
-- 🌱 **I'm currently deepening my knowledge in:** System Architecture, PHP (Laravel), and Meta's Graph API.
-- 💬 **Ask me about:** WhatsApp Cloud API, App Review Compliance, and Cost Engineering.
+  - **Suporte ORB:** SaaS platform that connects City Halls and citizens via WhatsApp API (Tech Provider model).
+  - **Ignis Guard:** Management solution for Fire Departments (operations and communication).
+
+- 🌱 **Deepening my knowledge in:**  
+  System Architecture, PHP (Laravel), and Meta’s Graph API.
+
+- 💬 **Ask me about:**  
+  WhatsApp Cloud API, App Review / compliance with Meta, and cost optimization for messaging at scale.
 
 ---
 
@@ -35,12 +44,12 @@ My focus is on **high-reliability systems**: I don't just write code; I engineer
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-**Languages & Tools I also speak:**
+**Also using in my daily workflow:**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
@@ -49,11 +58,11 @@ My focus is on **high-reliability systems**: I don't just write code; I engineer
 
 <div align="center">
 
-**Explore my repositories below to see my work in:**
-- 🏛️ **GovTech Solutions** - Building scalable platforms for public institutions
-- 🤖 **API Integration** - Meta Business Platform & WhatsApp Cloud API
-- ⚡ **Backend Development** - PHP/Laravel high-performance systems
-- 📱 **Messaging Infrastructure** - Enterprise-grade communication solutions
+**In my repos you’ll find work around:**
+- 🏛️ **GovTech Solutions** – Platforms for City Halls and public entities  
+- 🤖 **API Integrations** – Meta Business Platform & WhatsApp Cloud API  
+- ⚡ **Back-End Development** – PHP/Laravel services and messaging pipelines  
+- 📱 **Messaging Infrastructure** – High-availability WhatsApp communication
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arliindoo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
