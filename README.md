@@ -40,10 +40,7 @@ Currently I'm a Back-End Developer at **Orb Govtech**, helping City Halls connec
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arliindoo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Arliindoo" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Arliindoo&show_icons=true&locale=en&theme=dracula" alt="Arliindoo" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arliindoo&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="Arliindoo" />
 
 ---
 
