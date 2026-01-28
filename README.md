@@ -14,7 +14,7 @@
 
 ###
 
-Hi, I'm Arlindo — Back-End Developer focused on GovTech solutions and messaging infrastructure.
+Hi, I'm Arlindo — Back-End Developer
 
 - → Experienced in building SaaS platforms for government institutions
 - → Working with WhatsApp Cloud API, Meta Business Platform and system architecture
