@@ -1,46 +1,56 @@
-# Hi there 👋, I'm Arlindo Antonio
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<h3 align="center">Back-End Developer | WhatsApp Cloud API / Meta Business Platform 🚀</h3>
-<p align="center"><i>Building reliable GovTech messaging systems for public institutions.</i></p>
-
----
-
-## 👨‍💻 About Me
-
-I work at the intersection of **Back-End Development** and **GovTech**.  
-Currently I'm a Back-End Developer at **Orb Govtech**, helping City Halls connect with citizens through official WhatsApp channels.
-
-- 🔭 **I'm currently working on:**
-  - **Suporte ORB:** SaaS platform that connects City Halls and citizens via WhatsApp API (Tech Provider model).
-  - **Ignis Guard:** Management solution for Fire Departments (operations and communication).
-
-- 🌱 **Deepening my knowledge in:**  
-  System Architecture, PHP (Laravel), and Meta's Graph API.
-
-- 💬 **Ask me about:**  
-  WhatsApp Cloud API, App Review / compliance with Meta, and cost optimization for messaging at scale.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Daily Drivers (Production):**
+###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta%20for%20Developers-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arliindoo.Arliindoo&" />
 </div>
 
+###
+
+<h3 align="center">Back-End Developer | WhatsApp Cloud API / Meta Business Platform 🚀</h3>
+
+<p align="center"><i>Building reliable GovTech messaging systems for public institutions.</i></p>
+
+###
+
+Hi, I'm Arlindo — Back-End Developer focused on GovTech solutions and messaging infrastructure.
+
+- → Experienced in building SaaS platforms for government institutions
+- → Working with WhatsApp Cloud API, Meta Business Platform and system architecture
+- → Currently developing messaging solutions used by City Halls to connect with 100,000+ citizens
+- → Specialized in App Review compliance, API optimization and cost management at scale
+
+###
+
+## 🛠️ My Main Stack
+
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arliindoo&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="Arliindoo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Meta-0668E1?style=flat&logo=meta&logoColor=white" height="60" alt="meta logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+</div>
+
+###
+
+---
+
+## 🔭 Currently Working On
+
+- **Orb GovTech:** SaaS platform connecting City Halls and citizens via WhatsApp API (Tech Provider model)
+- **Ignis Guard:** Management solution for Fire Departments (operations and communication)
+
+###
 
 ---
 
@@ -60,6 +70,8 @@ Currently I'm a Back-End Developer at **Orb Govtech**, helping City Halls connec
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
+
+###
 
 ---
 
