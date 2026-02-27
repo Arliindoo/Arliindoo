@@ -1,7 +1,8 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=Arlindo%20Antonio&fontSize=42&fontColor=00ff41&fontAlign=50&fontAlignY=50&animation=scaleIn&desc=Back-End%20Developer&descSize=20&descAlign=50&descAlignY=72&color=0:0d0d0d,100:0a2a0a" />
+</div>
 
 ###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Arliindoo.Arliindoo&" />
 </div>
@@ -39,6 +40,8 @@ Hi, I'm Arlindo — Back-End Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" />
 </div>
 
 ###
@@ -49,6 +52,16 @@ Hi, I'm Arlindo — Back-End Developer
 
 - **Orb GovTech:** SaaS platform connecting City Halls and citizens via WhatsApp API (Tech Provider model)
 - **Ignis Guard:** Management solution for Fire Departments (operations and communication)
+
+###
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Arliindoo&theme=matrix&hide_border=true&fire=00ff41&ring=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41&background=0d0d0d" height="160" alt="streak stats" />
+</div>
 
 ###
 
