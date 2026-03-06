@@ -33,7 +33,7 @@ Hi, I'm Arlindo — Back-End Developer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Meta-0668E1?style=flat&logo=meta&logoColor=white" height="60" alt="meta logo" />
+ <img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="35" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
   <img width="12" />
