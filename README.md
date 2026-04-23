@@ -55,17 +55,6 @@ Hi, I'm Arlindo — Back-End Developer
 
 ###
 
----
-
-## 📊 Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arliindoo&theme=matrix&hide_border=true&fire=00ff41&ring=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41&background=0d0d0d" height="160" alt="streak stats" />
-</div>
-
-###
-
----
 
 ## 📫 Connect with Me
 
